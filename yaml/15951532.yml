@@ -1,0 +1,48 @@
+---
+id: 15951532
+name: Amazoness Queen
+type: Effect Monster
+frameType: effect
+desc: '"Amazoness" monsters you control cannot be destroyed by battle.'
+atk: 2400
+def: 1800
+level: 6
+race: Warrior
+attribute: EARTH
+archetype: Amazoness
+card_sets:
+- set_name: Duelist Revolution
+  set_code: DREV-EN032
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '16'
+- set_name: OTS Tournament Pack 6
+  set_code: OP06-EN025
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '3.25'
+- set_name: 'Speed Duel GX: Duelists of Shadows'
+  set_code: SGX3-END01
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+- set_name: 'Speed Duel GX: Duelists of Shadows'
+  set_code: SGX3-END01
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '0'
+card_images:
+- id: 15951532
+  image_url: https://images.ygoprodeck.com/images/cards/15951532.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/15951532.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/15951532.jpg
+- id: 15951532
+  image_url: https://images.ygoprodeck.com/images/cards/15951532.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/15951532.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/15951532.jpg
+card_prices:
+- cardmarket_price: '1.37'
+  tcgplayer_price: '0.36'
+  ebay_price: '5.99'
+  amazon_price: '4.28'
+  coolstuffinc_price: '0.79'

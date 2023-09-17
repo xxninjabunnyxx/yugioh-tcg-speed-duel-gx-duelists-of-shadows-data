@@ -1,0 +1,30 @@
+---
+id: 19980975
+name: Diamond-Dust Cyclone
+type: Spell Card
+frameType: spell
+desc: Select 1 monster with 4 or more Fog Counters. Destroy it and then draw 1 card
+  for every 4 Fog Counters that were on it.
+race: Quick-Play
+card_sets:
+- set_name: Gladiator's Assault
+  set_code: GLAS-EN048
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '1.25'
+- set_name: 'Speed Duel GX: Duelists of Shadows'
+  set_code: SGX3-ENH16
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+card_images:
+- id: 19980975
+  image_url: https://images.ygoprodeck.com/images/cards/19980975.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/19980975.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/19980975.jpg
+card_prices:
+- cardmarket_price: '0.15'
+  tcgplayer_price: '0.25'
+  ebay_price: '0.99'
+  amazon_price: '0.59'
+  coolstuffinc_price: '0.49'
